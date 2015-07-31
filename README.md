@@ -4,24 +4,24 @@ Density of Earth
 
 > Dataset from [Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish)'s experiments which measure the density of the earth relative to the density of water.
 
-In 1798, [Henry Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) conducted experiments to indirectly calculate the [gravitational constant](https://en.wikipedia.org/wiki/Gravitational_constant) in [Newton](https://en.wikipedia.org/wiki/Isaac_Newton)'s [law of universal gravitation](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation) between two bodies having mass `m_1` and `m_2`. Letting `m_1 = M`, where `M` is the earth's mass,
+In 1798, [Henry Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) conducted experiments to indirectly calculate the [gravitational constant](https://en.wikipedia.org/wiki/Gravitational_constant) in [Newton](https://en.wikipedia.org/wiki/Isaac_Newton)'s [law of universal gravitation](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation) between two bodies having mass `m_1` and `m_2`. Letting `m_1 = M`,
 
 <div class="equation" align="center" data-raw-text="F = G \frac{Mm}{r^2}" data-equation="eq:law_of_universal_gravitation">
-	<img src="" alt="Law of universal gravitation.">
+	<img src="https://cdn.rawgit.com/datasets-io/cavendish-density-of-earth/fb20716f7fc238570809c657caf2c6b1a2c18490/docs/img/law_of_universal_gravitation_alt.svg" alt="Law of universal gravitation.">
 	<br>
 </div>
 
-where `G` is the [gravitational constant](https://en.wikipedia.org/wiki/Gravitational_constant) and `r` is the distance between the two center of masses. If the earth is modeled as a sphere having radius `R`, [Newton](https://en.wikipedia.org/wiki/Isaac_Newton)'s law may be expressed
+where `M` is the earth's mass, `G` is the [gravitational constant](https://en.wikipedia.org/wiki/Gravitational_constant) and `r` is the distance between the two center of masses. If the earth is modeled as a sphere having radius `R`, [Newton](https://en.wikipedia.org/wiki/Isaac_Newton)'s law may be expressed
 
 <div class="equation" align="center" data-raw-text="DG = \frac{3g}{4\pi R}" data-equation="eq:law_of_universal_gravitation_alt">
-	<img src="" alt="Alternate form of the law of universal gravitation.">
+	<img src="https://cdn.rawgit.com/datasets-io/cavendish-density-of-earth/fb20716f7fc238570809c657caf2c6b1a2c18490/docs/img/law_of_universal_gravitation_alt.svg" alt="Alternate form of the law of universal gravitation.">
 	<br>
 </div>
 
 where `g` is the acceleration due to gravity and `D` is the earth's density. In which case, the density is inversely proportional to the gravitational constant `G`.
 
 <div class="equation" align="center" data-raw-text="D \propto \frac{1}{G}" data-equation="eq:inversely_proportional_to">
-	<img src="" alt="Relationship between density and the gravitational constant.">
+	<img src="https://cdn.rawgit.com/datasets-io/cavendish-density-of-earth/fb20716f7fc238570809c657caf2c6b1a2c18490/docs/img/inversely_proportional_to.svg" alt="Relationship between density and the gravitational constant.">
 	<br>
 </div>
 
