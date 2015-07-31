@@ -43,7 +43,7 @@ var data = require( 'datasets-cavendish-density-of-earth' );
 
 #### data
 
-Raw dataset from [Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish)'s experiments which measure the density of the earth relative to the density of water.
+Raw dataset from [Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish)'s experiments which measures the density of the earth relative to the density of water.
 
 ``` javascript
 console.log( data );
@@ -53,7 +53,7 @@ console.log( data );
 
 #### data.analyzed
 
-When performing his analysis, [Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) treated the third value `4.88` as `5.88`. 
+When performing his analysis, [Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) treated the third value `4.88` as `5.88`. This dataset acknowledges Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) treatment and replaces the third value.
 
 ``` javascript
 console.log( data.analyzed );
@@ -63,7 +63,7 @@ console.log( data.analyzed );
 
 #### data.edited
 
-While conducting his measurements, [Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) changed his experimental apparatus after the sixth measurement. To remove confounding factors, an edited dataset is included which sets the first `6` values as missing values.
+While conducting his measurements, [Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) changed his experimental apparatus after the sixth measurement. To remove confounding factors, an edited dataset is included which sets the first `6` values as missing values encoded as `null`.
 
 ``` javascript
 console.log( data.edited );
