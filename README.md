@@ -2,7 +2,7 @@ Density of Earth
 ===
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][codecov-image]][codecov-url] [![Dependencies][dependencies-image]][dependencies-url]
 
-> Dataset from [Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish)'s experiments which measure the density of the earth relative to the density of water.
+> Dataset from [Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish)'s experiments which measured the density of the earth relative to the density of water.
 
 In 1798, [Henry Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) conducted experiments to indirectly calculate the [gravitational constant](https://en.wikipedia.org/wiki/Gravitational_constant) in [Newton](https://en.wikipedia.org/wiki/Isaac_Newton)'s [law of universal gravitation](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation) between two bodies having mass `m_1` and `m_2`. Letting `m_1 = M`,
 
@@ -43,7 +43,7 @@ var data = require( 'datasets-cavendish-density-of-earth' );
 
 #### data
 
-Raw dataset from [Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish)'s experiments which measures the density of the earth relative to the density of water.
+Raw dataset from [Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish)'s experiments which measured the density of the earth relative to the density of water.
 
 ``` javascript
 console.log( data );
