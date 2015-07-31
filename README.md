@@ -53,7 +53,7 @@ console.log( data );
 
 #### data.analyzed
 
-When performing his analysis, [Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) treated the third value `4.88` as `5.88`. This dataset acknowledges Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) treatment and replaces the third value.
+When performing his analysis, [Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) treated the third value `4.88` as `5.88`. This dataset acknowledges [Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish)'s treatment and replaces the third value.
 
 ``` javascript
 console.log( data.analyzed );
