@@ -18,7 +18,7 @@ where `M` is the earth's mass, `G` is the [gravitational constant](https://en.wi
 	<br>
 </div>
 
-where `g` is the acceleration due to gravity and `D` is the earth's density. In which case, the density is inversely proportional to the [gravitational constant](https://en.wikipedia.org/wiki/Gravitational_constant) `G`.
+where `g` is the [acceleration due to gravity](https://en.wikipedia.org/wiki/Gravity_of_Earth) and `D` is the earth's density. In which case, the density is inversely proportional to the [gravitational constant](https://en.wikipedia.org/wiki/Gravitational_constant) `G`.
 
 <div class="equation" align="center" data-raw-text="D \propto \frac{1}{G}" data-equation="eq:inversely_proportional_to">
 	<img src="https://cdn.rawgit.com/datasets-io/cavendish-density-of-earth/fb20716f7fc238570809c657caf2c6b1a2c18490/docs/img/inversely_proportional_to.svg" alt="Relationship between density and the gravitational constant.">
