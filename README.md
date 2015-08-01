@@ -11,14 +11,14 @@ In 1798, [Henry Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) conduc
 	<br>
 </div>
 
-where `M` is the earth's mass, `G` is the [gravitational constant](https://en.wikipedia.org/wiki/Gravitational_constant) and `r` is the distance between the two center of masses. If the earth is modeled as a sphere having radius `R`, [Newton](https://en.wikipedia.org/wiki/Isaac_Newton)'s law may be expressed
+where `M` is the earth's mass, `G` is the [gravitational constant](https://en.wikipedia.org/wiki/Gravitational_constant), and `r` is the distance between the two center of masses. If the earth is modeled as a sphere having radius `R`, [Newton](https://en.wikipedia.org/wiki/Isaac_Newton)'s law may be expressed
 
 <div class="equation" align="center" data-raw-text="DG = \frac{3g}{4\pi R}" data-equation="eq:law_of_universal_gravitation_alt">
 	<img src="https://cdn.rawgit.com/datasets-io/cavendish-density-of-earth/fb20716f7fc238570809c657caf2c6b1a2c18490/docs/img/law_of_universal_gravitation_alt.svg" alt="Alternate form of the law of universal gravitation.">
 	<br>
 </div>
 
-where `g` is the [acceleration due to gravity](https://en.wikipedia.org/wiki/Gravity_of_Earth) and `D` is the earth's density. In which case, the density is inversely proportional to the [gravitational constant](https://en.wikipedia.org/wiki/Gravitational_constant) `G`.
+where `g` is the [acceleration due to gravity](https://en.wikipedia.org/wiki/Gravity_of_Earth) and `D` is the earth's density. Accordingly, the density is inversely proportional to the [gravitational constant](https://en.wikipedia.org/wiki/Gravitational_constant) `G`.
 
 <div class="equation" align="center" data-raw-text="D \propto \frac{1}{G}" data-equation="eq:inversely_proportional_to">
 	<img src="https://cdn.rawgit.com/datasets-io/cavendish-density-of-earth/fb20716f7fc238570809c657caf2c6b1a2c18490/docs/img/inversely_proportional_to.svg" alt="Relationship between density and the gravitational constant.">
