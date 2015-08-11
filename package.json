@@ -1,6 +1,6 @@
 {
   "name": "datasets-cavendish-density-of-earth",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Dataset from Cavendish's experiments which measured the density of the earth relative to the density of water.",
   "author": {
     "name": "Athan Reines",
